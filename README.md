@@ -1,16 +1,25 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Carlos Organero Barranco
 
-<!--
-**CarlosOrba31/CarlosOrba31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de instituto, y soy un apasinado del futbol y la Fórmula 1. Actualmente estoy trabajando varios proyectos y en mi tiempo libre me gusta programar.
 
-Here are some ideas to get you started:
+## Tecnologías que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Lenguajes de programación: HTML y CSS, jS, TypeScript, Python.
+- Herramientas y plataformas: Visual Studio Code, Git, Github.
+
+## Proyectos destacados
+
+- [Calculadora del IMC](https://github.com/CarlosOrba31/Calculadora-de-IMC)
+- [Portfolio](https://github.com/CarlosOrba31/portfoliocarlos.github.io)
+
+## 📧 Contacto 
+
+Si quieres contactarme, puedes hacerlo a través de mi correo electrónico: [carlosorba31@gmail.com](mailto:carlosorba31@gmail.com).
+
+## 🌍 Redes sociales
+
+- [Twitter](https://twitter.com/Carlos_Orba31)
+- [Instagram](https://www.instagram.com/carlosorba_08/)
+
+
+¡Gracias por visitar mi perfil! 😄
