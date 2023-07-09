@@ -4,7 +4,7 @@ Soy estudiante de instituto, y soy un apasinado del futbol y la Fórmula 1. Actu
 
 ## Tecnologías que uso
 
-- Lenguajes de programación: HTML y CSS, jS, TypeScript, Python.
+- Lenguajes de programación: HTML y CSS, jS, Python.
 - Herramientas y plataformas: Visual Studio Code, Git, Github.
 
 ## Proyectos destacados
