@@ -19,7 +19,7 @@ Si quieres contactarme, puedes hacerlo a través de mi correo electrónico: [car
 ## 🌍 Redes sociales
 
 - [Twitter](https://twitter.com/Carlos_Orba31)
-- [Instagram](https://www.instagram.com/carlosorba_08/)
+- [Instagram](https://www.instagram.com/carlos_orba08/)
 
 
 ¡Gracias por visitar mi perfil! 😄
