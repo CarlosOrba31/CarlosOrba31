@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Carlos Organero Barranco
 
-Soy estudiante de instituto, y soy un apasinado del futbol y la Fórmula 1. Actualmente estoy trabajando varios proyectos y en mi tiempo libre me gusta programar.
+Soy estudiante de instituto, y soy un apasinado del futbol y la Fórmula 1. Actualmente estoy trabajando en varios proyectos.
 
 ## Tecnologías que uso
 
